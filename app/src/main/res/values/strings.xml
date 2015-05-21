@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyRAY</string>
+
+    <string name="itineraire">Itinéraire</string>
+    <string name="title_section2">Plans</string>
+    <string name="title_section3">Horaires</string>
+    <string name="title_section4">Trafics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+   <!-- <string name="action_example">Example action</string> -->
+
+    <string name="action_settings">Settings</string>
+</resources>
